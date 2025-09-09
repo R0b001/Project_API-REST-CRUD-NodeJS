@@ -1,0 +1,4 @@
+#Variables ignoradas:
+.env
+mongo/
+node_modules/
